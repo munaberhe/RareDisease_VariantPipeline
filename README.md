@@ -24,6 +24,9 @@ This pipeline performs:
 
 ## Example Outputs
 
+- [PCA Plot](plots/PCAplot.pdf)
+- [MA Plot](plots/MAplot.pdf)
+
 ### PCA Plot
 
 ![PCA Plot](plots/PCAplot.png)
