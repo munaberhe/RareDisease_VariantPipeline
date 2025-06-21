@@ -1,0 +1,27 @@
+# Ignore raw data
+data/
+
+# Ignore all big results
+results/
+
+# Ignore any big VCF or intermediate files
+*.vcf
+*.vcf.gz
+*.tsv
+*.csv
+*.html
+
+# Ignore R/RStudio files
+.Rhistory
+.Rproj.user/
+
+# Ignore raw and result data
+data/
+results/
+
+# Keep small example files if needed, like README.md and scripts
+
+data/
+results/
+data/
+results/
