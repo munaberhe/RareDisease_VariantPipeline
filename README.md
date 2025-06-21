@@ -103,9 +103,6 @@ ggsave("results/plots/Impact_counts.png")
 - Consider using Git LFS for versioning large files.
 - Commit only scripts, final clean results, and documentation.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
