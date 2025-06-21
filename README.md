@@ -31,10 +31,13 @@ This pipeline performs:
 | 22 | 16050115 | G | A | . | intergenic_variant | MODIFIER | . | 0.006 |
 | 22 | 16050213 | C | T | . | intergenic_variant | MODIFIER | . | 0.007 |
 
-### Example Plots
+## Example Outputs
 
-- `results/plots/AF_distribution.png`: Allele Frequency Histogram
-- `results/plots/Impact_counts.png`: Consequence Impact Counts
+### PCA Plot
+![PCA Plot](plots/PCAplot.png)
+
+### MA Plot
+![MA Plot](plots/MAplot.png)
 
 ## 3. How to Run
 
