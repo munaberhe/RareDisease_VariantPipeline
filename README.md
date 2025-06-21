@@ -22,7 +22,15 @@ This pipeline performs:
 - Parsing annotations into tabular format.
 - Summary plots and outputs in R.
 
-## 2. Example Outputs
+## Example Outputs
+
+### PCA Plot
+
+![PCA Plot](plots/PCAplot.png)
+
+### MA Plot
+
+![MA Plot](plots/MAplot.png)
 
 ### Filtered Variants Preview
 
