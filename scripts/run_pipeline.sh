@@ -28,7 +28,7 @@ echo "Filtering for rare variants (AF < 0.01)..."
 bcftools view -i 'INFO/AF<0.01' "${OUTPUT_DIR}/chr22_filtered.vcf.gz" -Oz -o "${OUTPUT_DIR}/chr22_rare.vcf.gz"
 
 # --------------------------------------------
-# 5️⃣Index rare variants
+# 5 Index rare variants
 # --------------------------------------------
 bcftools index -f "${OUTPUT_DIR}/chr22_rare.vcf.gz"
 
